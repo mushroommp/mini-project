@@ -1,0 +1,17 @@
+body {
+    background: burlywood;
+}
+
+h1 {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.content {
+    margin: auto;
+    max-width: 500px;
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    color: blue;
+    padding-top: 20px;
+}
